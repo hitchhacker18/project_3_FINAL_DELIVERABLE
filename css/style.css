@@ -1,8 +1,7 @@
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 400px) {
 body {
   background-color: #e6e6ff;
   font-family: Times New Roman, Times, sans-serif;
-}
 }
 body.index {
   background-color: white;
@@ -48,15 +47,15 @@ div.box1 {
   margin-right: auto;
   border: .5em solid teal;
   width: 20%;
-}  
-@media screen and (min-width: 600px) {
+	}
+}
+@media screen and (min-width: 1200px) {
 h1 {
   font-weight: bold;
   font-style: italic;
   font-size: 2.5em;
   text-align: center;
   padding: 1.1em;
-}
 }
 h1.background {
   margin-left: auto;
