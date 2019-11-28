@@ -15,6 +15,7 @@ body.index {
   padding: 0;
   font-family: Arial Black, Tahoma, serif;
   font-size: 1.2em;
+  text-align: center;
 }
 .nav li {
   display:inline;
