@@ -21,7 +21,7 @@ body.index {
 }
 .nav a {
   display:inline-block;
-  padding:1.5em;
+  padding:0;
 }
 .list {
   text-align: center;
